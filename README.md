@@ -29,7 +29,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atilgannnn&" alt="atilgannnn" /></p>
 
-"Snake eating my contribution graphs
+Snake eating my contribution graphs
 ![snake gif](https://github.com/atilgannnn/atilgannnn/blob/output/github-contribution-grid-snake.gif)
 
 
