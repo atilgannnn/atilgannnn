@@ -1,4 +1,4 @@
-[![MasterHead](https://i.kym-cdn.com/photos/images/newsfeed/000/485/701/dcd.gif)]
+[![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-fc7d22b13d.gif)]
 
 <h1 align="center">Hi 👋, I'm Atılgan</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
