@@ -1,4 +1,4 @@
-![MasterHead](https://im4.ezgif.com/tmp/ezgif-4-fc7d22b13d.gif)
+![MasterHead]()
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atilgannnn&show_icons=true&theme=radical)
 
 Snake eating my contribution graphs
