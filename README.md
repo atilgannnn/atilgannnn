@@ -49,13 +49,12 @@ I am a **Full-Stack Developer** with **5+ years of experience** specializing in 
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Featured Projects & Knowledge Base
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[study-notes](https://github.com/atilgannnn/study-notes)** | Centralized knowledge base covering Java, Spring, React, and Game Dev. | `Markdown`, `Java`, `Unity` |
 | **[Backend-Project](#)** | Enterprise-level microservices architecture with JWT & Security. | `Java`, `Spring Boot`, `Microservices`, `Docker` |
-| **[Fullstack-App](#)** | Responsive web application built with React and Spring Boot. | `Java`, `React`, `Redux`, `PostgreSQL` |
 | **[Unity-Game-Project](#)** | Game project featuring custom gameplay logic, Blender models, and Aseprite assets. | `Unity`, `C#`, `Blender`, `Aseprite` |
 
 ---
-
