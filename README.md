@@ -1,7 +1,7 @@
 # Hi there, I'm Atılgan Şahin Ulaşan 👋
 
 <p align="center">
-  <b>Senior Full-Stack Java Developer (5+ Yrs)</b> | <b>Game Developer & Asset Creator</b> 
+  <b> Full-Stack Java Developer (5+ Yrs)</b> | <b>Game Developer & Asset Creator</b> 
 </p>
 
 <p align="center">
