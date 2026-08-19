@@ -59,7 +59,3 @@ I am a **Full-Stack Developer** with **5+ years of experience** specializing in 
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atilgannnn&show_icons=true&theme=radial" alt="atilgannnn github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atilgannnn&layout=compact&theme=radial" alt="atilgannnn top languages" width="48%" />
-</p>
