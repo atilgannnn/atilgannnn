@@ -54,7 +54,5 @@ I am a **Full-Stack Developer** with **5+ years of experience** specializing in 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[study-notes](https://github.com/atilgannnn/study-notes)** | Centralized knowledge base covering Java, Spring, React, and Game Dev. | `Markdown`, `Java`, `Unity` |
-| **[Backend-Project](#)** | Enterprise-level microservices architecture with JWT & Security. | `Java`, `Spring Boot`, `Microservices`, `Docker` |
+| **[CookeryTech](https://github.com/atilgannnn/CookeryTech)** | B2B Commercial Kitchen E-Commerce REST API with JWT security, automated TCMB rate scraper, and OpenAPI docs. | `Java`, `Spring Boot`, `PostgreSQL`, `JWT`, `MapStruct` |
 | **[Unity-Game-Project](#)** | Game project featuring custom gameplay logic, Blender models, and Aseprite assets. | `Unity`, `C#`, `Blender`, `Aseprite` |
-
----
