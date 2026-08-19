@@ -1,4 +1,4 @@
-# Hi there, I'm Ulaşan Atılgan Şahin 👋
+# Hi there, I'm Atılgan Şahin Ulaşan👋
 
 <p align="center">
   <b>Senior Full-Stack Java Developer (5+ Yrs)</b> | <b>Indie Game Developer</b> 
