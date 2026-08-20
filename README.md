@@ -53,6 +53,7 @@ I am a **Full-Stack Developer** with **5+ years of experience** specializing in 
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[study-notes](https://github.com/atilgannnn/study-notes)** | Centralized knowledge base covering Java, Spring, React, and Game Dev. | `Markdown`, `Java`, `Unity` |
+| **[PickAndDrive](https://github.com/atilgannnn/PickAndDrive)** | Full-stack Car Rental API featuring role-based JWT auth, 10MB multipart image uploads, and PostgreSQL persistence. | `Java`, `Spring Boot`, `PostgreSQL`, `JWT`, `Docker`, `Render` |
 | **[CookeryTech](https://github.com/atilgannnn/CookeryTech)** | B2B Commercial Kitchen E-Commerce REST API with JWT security, automated TCMB rate scraper, and OpenAPI docs. | `Java`, `Spring Boot`, `PostgreSQL`, `JWT`, `MapStruct` |
+| **[study-notes](https://github.com/atilgannnn/study-notes)** | Centralized knowledge base covering Java, Spring, React, and Game Dev. | `Markdown`, `Java`, `Unity` |
 | **[Unity-Game-Project](#)** | Game project featuring custom gameplay logic, Blender models, and Aseprite assets. | `Unity`, `C#`, `Blender`, `Aseprite` |
